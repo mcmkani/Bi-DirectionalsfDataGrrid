@@ -1,0 +1,9 @@
+D:\MyStuff\Technical\WPFTutorials\SGZOverview.UI\SGZ.UI\SGZ.DataAccess\bin\Debug\SGZ.DataAccess.dll.config
+D:\MyStuff\Technical\WPFTutorials\SGZOverview.UI\SGZ.UI\SGZ.DataAccess\bin\Debug\SGZ.DataAccess.dll
+D:\MyStuff\Technical\WPFTutorials\SGZOverview.UI\SGZ.UI\SGZ.DataAccess\bin\Debug\SGZ.DataAccess.pdb
+D:\MyStuff\Technical\WPFTutorials\SGZOverview.UI\SGZ.UI\SGZ.DataAccess\bin\Debug\EntityFramework.dll
+D:\MyStuff\Technical\WPFTutorials\SGZOverview.UI\SGZ.UI\SGZ.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyStuff\Technical\WPFTutorials\SGZOverview.UI\SGZ.UI\SGZ.DataAccess\bin\Debug\EntityFramework.xml
+D:\MyStuff\Technical\WPFTutorials\SGZOverview.UI\SGZ.UI\SGZ.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyStuff\Technical\WPFTutorials\SGZOverview.UI\SGZ.UI\SGZ.DataAccess\obj\Debug\SGZ.DataAccess.dll
+D:\MyStuff\Technical\WPFTutorials\SGZOverview.UI\SGZ.UI\SGZ.DataAccess\obj\Debug\SGZ.DataAccess.pdb
